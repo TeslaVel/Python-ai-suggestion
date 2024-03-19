@@ -1,0 +1,5 @@
+__pycache__
+persist/
+.DS_Store
+.chroma/
+constants.py

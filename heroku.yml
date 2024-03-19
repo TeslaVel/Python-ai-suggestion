@@ -1,0 +1,3 @@
+```yaml
+  buildpack: https://github.com/heroku/python.git#3.12.2
+```
