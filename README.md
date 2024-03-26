@@ -28,10 +28,10 @@ MONGO_URL=your-database-url
     "Agent: ¡Buenos días! Tenemos una amplia variedad de televisores para diferentes necesidades y presupuestos. ¿Qué tamaño le interesa? ¿Tiene alguna preferencia en cuanto a características como calidad de imagen, funcionalidades inteligentes o capacidades para juegos?",
   ],
   "client": {
-    "name": "Morgan Freeman"
+    "name": "Rosh Schneider"
   },
   "agent": {
-    "name": "John Doe"
+    "name": "Addam Sandler"
   },
   "products": [
     "TV UUID: 12345\nName: StellarVision X1\nBrand: Stellar Electronics\nDescription: The StellarVision X1 is a top-of-the-line 4K Ultra HD TV with HDR support. It features a 65-inch Quantum Dot display, Dolby Vision, and Dolby Atmos audio. Enjoy immersive visuals and crystal-clear sound.\nPrice: $1,499.99\nDiscounted Price: $1,049.99 (30% off).\nBuy: [Link](http://mercately.com/cart/buy/12345)",
@@ -47,10 +47,10 @@ MONGO_URL=your-database-url
 ```json
 {
   "suggestions": [
-    "Dado que te interesó el TCL 6-Series por su calidad de imagen y precio, quizás también te gustaría considerar el Hisense U8G. Aunque es un poco más grande, de 65 pulgadas, ofrece una excelente calidad de imagen con Dolby Vision HDR y una frecuencia de actualización de 120Hz para hacer que las películas y series se vean increíblemente fluidas. Además, viene con Android TV para acceder fácilmente a tus aplicaciones de streaming favoritas.",
-    "Si estás buscando algo un poco más avanzado y no te importa invertir un poco más, el Philips OLED 805 podría ser una excelente elección. Con su tecnología Ambilight, no solo obtendrás una calidad de imagen excepcional gracias a su pantalla OLED y soporte para Dolby Vision y Atmos, sino que también disfrutarás de una experiencia visual envolvente única que extiende los colores más allá del televisor hacia las paredes circundantes.",
-    "Entiendo que las funciones inteligentes no son tu prioridad principal, pero si en algún momento decides explorar otras opciones con características avanzadas, el Sony Bravia A"
-  ]
+        "Estoy encantado de confirmar que el TCL 6-Series, con su impresionante calidad de imagen gracias a la tecnología QLED y Mini-LED, es una excelente elección. Aquí tiene el enlace directo para adquirirlo: [Comprar TCL 6-Series](http://mercately.com/cart/buy/10293)",
+        "Si en el futuro decide ampliar su experiencia de visualización, el Philips OLED 805 podría ser una magnífica opción secundaria con su tecnología Ambilight única. Aquí está el enlace para más detalles: [Philips OLED 805](http://mercately.com/cart/buy/81927)",
+        "Para complementar su nueva TV, ¿ha considerado mejorar su sistema de sonido? Un barra de sonido puede realzar significativamente la calidad del audio para películas y series."
+    ]
 }
 ```
 
