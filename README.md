@@ -34,8 +34,8 @@ MONGO_URL=your-database-url
     "name": "Addam Sandler"
   },
   "products": [
-    "TV UUID: 12345\nName: StellarVision X1\nBrand: Stellar Electronics\nDescription: The StellarVision X1 is a top-of-the-line 4K Ultra HD TV with HDR support. It features a 65-inch Quantum Dot display, Dolby Vision, and Dolby Atmos audio. Enjoy immersive visuals and crystal-clear sound.\nPrice: $1,499.99\nDiscounted Price: $1,049.99 (30% off).\nBuy: [Link](http://mercately.com/cart/buy/12345)",
-    "TV UUID: 67890\nName: LuminaVista S9\nBrand: Lumina Electronics\nDescription: The LuminaVista S9 offers a 55-inch OLED display with 4K resolution. It supports HDR10+ and features a sleek design with ultra-thin bezels. Immerse yourself in lifelike visuals and vibrant colors.\nPrice: $1,899.99\nBuy: [Link](http://mercately.com/cart/buy/67890)",
+    "TV UUID: 123\nName: StellarVision X1\nBrand: Stellar Electronics\nDescription: The StellarVision X1 is a top-of-the-line 4K Ultra HD TV with HDR support. It features a 65-inch Quantum Dot display, Dolby Vision, and Dolby Atmos audio. Enjoy immersive visuals and crystal-clear sound.\nPrice: $1,499.99\nDiscounted Price: $1,049.99 (30% off).\nBuy: [Link](http://site.com/cart/buy/124)",
+    "TV UUID: 67890\nName: LuminaVista S9\nBrand: Lumina Electronics\nDescription: The LuminaVista S9 offers a 55-inch OLED display with 4K resolution. It supports HDR10+ and features a sleek design with ultra-thin bezels. Immerse yourself in lifelike visuals and vibrant colors.\nPrice: $1,899.99\nBuy: [Link](http://site.com/cart/buy/125)",
 	]
 }
 ```
@@ -47,8 +47,8 @@ MONGO_URL=your-database-url
 ```json
 {
   "suggestions": [
-        "Estoy encantado de confirmar que el TCL 6-Series, con su impresionante calidad de imagen gracias a la tecnología QLED y Mini-LED, es una excelente elección. Aquí tiene el enlace directo para adquirirlo: [Comprar TCL 6-Series](http://mercately.com/cart/buy/10293)",
-        "Si en el futuro decide ampliar su experiencia de visualización, el Philips OLED 805 podría ser una magnífica opción secundaria con su tecnología Ambilight única. Aquí está el enlace para más detalles: [Philips OLED 805](http://mercately.com/cart/buy/81927)",
+        "Estoy encantado de confirmar que el TCL 6-Series, con su impresionante calidad de imagen gracias a la tecnología QLED y Mini-LED, es una excelente elección. Aquí tiene el enlace directo para adquirirlo: [Comprar TCL 6-Series](http://site.com/cart/buy/143)",
+        "Si en el futuro decide ampliar su experiencia de visualización, el Philips OLED 805 podría ser una magnífica opción secundaria con su tecnología Ambilight única. Aquí está el enlace para más detalles: [Philips OLED 805](http://site.com/cart/buy/144)",
         "Para complementar su nueva TV, ¿ha considerado mejorar su sistema de sonido? Un barra de sonido puede realzar significativamente la calidad del audio para películas y series."
     ]
 }
